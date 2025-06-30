@@ -1,2 +1,10 @@
 
 /* Your CSS Code here. */
+.left{
+	text-align:left;
+	background-color:maroon;
+	color:white
+}
+.right{
+	text-align:right
+}
